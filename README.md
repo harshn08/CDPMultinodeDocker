@@ -1,8 +1,8 @@
-# CDPMultinodeDocker
+# CDP Multinode Docker with CDF and CDSW
 
 CDP Multinode script using Docker on Mac/Windows 10,
 This will create brand new 6 instances on AWS( 2 4xlarge and 2 2xlarge)
-CDP DC will be installed with full security (Kerberos,TLS and KMS)
+CDP DC will be installed with full security (Kerberos,TLS and KMS) with CDF and CDFSW
 
 Updated on March 11, 2020
 
