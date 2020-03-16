@@ -57,7 +57,7 @@ Docker Setup:
 	   The set of instructions work on both Mac OS and Windows. 
 	3> $docker run -it fedora /bin/bash, you will see docker id as example below. 
 	      ...@077d2b4577cfb/mn-script#] exit;
-	    Make a note the ID  "77d2b4577cfb" . Use this id to run the next command. 
+	    Make a note the ID  "77d2b4577cfb" , exit from docker.  Use this id to run the next command. 
 	4> execute $docker commit 77d2b4577cfb  myfedora (Use the ID from command above)
 	5>Mounting your local Mac drive  /Users/<dir> to Docker /home/<dir>
 		
