@@ -1,4 +1,4 @@
-# CDP Multinode Docker with CDF and CDSW
+# CDPDC Multinode Sript for Docker with CDF/CDSW
 
 CDP Multinode script using Docker on Mac/Windows 10,
 This will create brand new 6 instances on AWS( 2 4xlarge and 2 2xlarge)
